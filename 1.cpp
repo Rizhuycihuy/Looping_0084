@@ -11,5 +11,6 @@ int main(){
   cout<<endl;
   srand(time(0));
 
-  cout <<"perulangan dengan while"<<endl;
+  cout <<"perulangan while"<<endl;
+  x = 1 + rand()%10;
 }
