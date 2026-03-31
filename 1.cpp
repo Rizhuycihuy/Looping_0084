@@ -15,7 +15,7 @@ int main(){
   x = 1 + rand()%10;
 
   while(x<=5){
-        cout<<"bilangan acak = "<<x xxendl;
+        cout<<"bilangan acak = "<<x <<endl;
         x = rand()%10;
   }
 
