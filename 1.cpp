@@ -9,4 +9,5 @@ int main(){
       cout <<"Teknologi informasi umy"<<endl;
   }
   cout<<endl;
+  srand(time(0));
 }
