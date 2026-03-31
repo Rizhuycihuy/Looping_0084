@@ -8,5 +8,5 @@ int main(){
   for(int i; i<=4; i++){
       cout <<"Teknologi informasi umy"<<endl;
   }
-  cout <<endl;
+  cout<<endl;
 }
