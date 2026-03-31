@@ -10,4 +10,6 @@ int main(){
   }
   cout<<endl;
   srand(time(0));
+
+  cout <<"perulangan dengan while"<<endl;
 }
