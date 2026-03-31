@@ -13,4 +13,11 @@ int main(){
 
   cout <<"perulangan while"<<endl;
   x = 1 + rand()%10;
+
+  while(x<=5){
+        cout<<"bilangan acak = "<<x xxendl;
+        x = rand()%10;
+  }
+
+  
 }
