@@ -19,5 +19,8 @@ int main(){
         x = rand()%10;
   }
 
+  cout<<"bilangan acak while yang terakhir ="<<x <<endl;
+  cout<<endl;
+
   
 }
